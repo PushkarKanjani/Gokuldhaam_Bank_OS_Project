@@ -24,3 +24,9 @@ dist-ssr
 
 # Local Netlify folder
 .netlify
+
+# Build output / .exe files
+/Gokuldhaam Bank-win32-x64
+/bolt
+
+
